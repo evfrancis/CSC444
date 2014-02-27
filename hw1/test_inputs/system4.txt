@@ -1,0 +1,12 @@
+100
+100
+5
+50, 5, 0, 10
+5, 50, 10, 0
+50, 95, 0, -10
+95, 50, -10, 0
+50, 50, 0, 0
+
+# System Test: Ball in center is stopped. 
+# 4 Balls hit it from top, left, right, bottom simultaneously
+# Middle ball should remain in roughly same spot, all balls reflect

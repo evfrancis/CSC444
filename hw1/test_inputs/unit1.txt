@@ -1,0 +1,7 @@
+100
+50
+1
+50, 25, 10, 0
+
+# Unit Test: Ball moves, stops
+# Unit Test: Ball bounces off right wall, stops

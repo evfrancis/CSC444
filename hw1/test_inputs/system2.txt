@@ -1,0 +1,10 @@
+100
+50
+4
+5, 5, 40, 0
+95, 5, -55, 54
+5, 35, 69, 52
+95, 25, 0, 45
+
+# System Test: 4 Balls, random positions/velocities
+# bounce randomly and stop 

@@ -1,0 +1,8 @@
+100
+50
+3
+5, 25, 10, 0
+25, 25, -10, 0
+10, 40, 0, -10
+
+# System Test: 3 Ball, 1 collides with 2 of them simultaneously

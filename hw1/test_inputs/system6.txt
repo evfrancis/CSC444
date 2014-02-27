@@ -1,0 +1,18 @@
+100
+100
+11
+35, 5, 0, 100
+35, 40, 0, 0
+40, 49, 0, 0
+30, 49, 0, 0
+45, 58, 0 ,0
+35, 58, 0, 0
+25, 58, 0, 0
+20, 67, 0, 0
+30, 67, 0, 0
+40, 67, 0, 0
+50, 67, 0, 0
+
+# System Test: Newtons Cradle. 5 Balls touching in center.
+# 1 Ball comes from the left and hits them.
+# Right most ball moves, reflects off wall, then hits the cradle (repeat) 

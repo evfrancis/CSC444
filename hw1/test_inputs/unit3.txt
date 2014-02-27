@@ -1,0 +1,7 @@
+100
+50
+2
+20, 25, 1, 0
+40, 25, -1, 0
+
+# Unit Test: 2 Ball Horizontal Collision, reflection, then stops

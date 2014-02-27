@@ -1,0 +1,6 @@
+50
+50
+1
+10, 30, 50, 100
+
+# System Test: Pong. Bounces off all walls repeatedly
